@@ -54,3 +54,21 @@ Text-image retrieval with PatentCLIP [![Open In Colab](https://colab.research.go
 |           |               | ResNet101 |    7.44    |  20.6 | 28.48 |    7.02    | 19.70 |   27.58  |
 |           |               |  ViT-B-32 |    10.24   | 25.56 | 35.06 |    9.88    | 25.90 |   35.08  |
 |           |               |  ViT-L-14 |    **20.58**   | **43.14** | **53.00** |    **20.44**   | **42.34** | **52.56** |
+
+## Acknowledgement
+- [open-clip](https://github.com/mlfoundations/open_clip): the code base we built on for PatentCLIP.
+- [LLaVa](https://github.com/haotian-liu/LLaVA) for caption generation.
+
+## Citation
+If you use the code or data in this repo for your work, please consider citing our paper and staring this repo:
+
+```
+@inproceedings{
+patent2024impact,
+title={{IMPACT}: A Large-scale Integrated Multimodal Patent Analysis and Creation Dataset for Design Patents},
+author={Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya},
+booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2024},
+url={https://openreview.net/forum?id=l0Ydsl10ci}
+}
+```
