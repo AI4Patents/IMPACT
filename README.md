@@ -63,12 +63,11 @@ Text-image retrieval with PatentCLIP [![Open In Colab](https://colab.research.go
 If you use the code or data in this repo for your work, please consider citing our paper and staring this repo:
 
 ```
-@inproceedings{
-patent2024impact,
-title={{IMPACT}: A Large-scale Integrated Multimodal Patent Analysis and Creation Dataset for Design Patents},
-author={Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya},
-booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
-year={2024},
-url={https://openreview.net/forum?id=l0Ydsl10ci}
-}
+@inproceedings{patent2024impact,
+    title={{IMPACT}: A Large-scale Integrated Multimodal Patent Analysis and Creation Dataset for Design Patents},
+    author={Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya},
+    booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+    year={2024},
+    url={https://openreview.net/forum?id=l0Ydsl10ci}
+    }
 ```
