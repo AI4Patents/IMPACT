@@ -9,6 +9,16 @@ We introduce IMPACT (Integrated Multimodal Patent Analysis and CreaTion Dataset)
 
 ## Data
 :green_book: Dataset can be viewed and downloaded [here](https://huggingface.co/datasets/AI4Patents/IMPACT/tree/main).
+```
+import os
+from huggingface_hub import hf_hub_download
+
+CSV_FILE = '2022.csv'
+os.makedirs(TARGET_DIR, exist_ok=True)
+path = hf_hub_download(repo_id='AI4Patents/IMPACT', filename=CSV_FILE, repo_type="dataset")
+destination = os.path.join('data', CSV_FILE)
+os.rename(path, destination)
+```
 
 ## Patent Classification
 
