@@ -8,7 +8,7 @@ We introduce IMPACT (Integrated Multimodal Patent Analysis and CreaTion Dataset)
 <img width="2168" alt="main_fig" src="https://github.com/hhshomee/designpatent_dataset/assets/10067151/758947ff-8a5f-4ab9-a62f-e8c61938e7cc">
 
 ## Data
-:green_book: Sample datas can be viewed and download [here](https://drive.google.com/file/d/1khIZ78GoBoOI_nvgyMJz5leJhW0UDb14/view?usp=drive_link).
+:green_book: Sample datas can be viewed and download [here](https://huggingface.co/datasets/AI4Patents/IMPACT/tree/main).
 
 ## Patent Classification
 
