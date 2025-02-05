@@ -1,5 +1,7 @@
 # :art: IMPACT: A Large-scale Integrated Multimodal Patent Analysis and Creation Dataset for Design Patents 
-We introduce IMPACT (Integrated Multimodal Patent Analysis and CreaTion Dataset) for Design Patents. Check our papers here: [OpenReview](https://openreview.net/pdf?id=l0Ydsl10ci) 🔥
+We introduce IMPACT (Integrated Multimodal Patent Analysis and CreaTion Dataset) for Design Patents. 
+
+Check our papers here: [OpenReview](https://openreview.net/pdf?id=l0Ydsl10ci) 🔥
 
 :black_nib: It is a large-scale multimodal patent dataset with detailed captions for design patent figures. 
 
